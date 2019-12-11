@@ -1,0 +1,126 @@
+@media(max-width: 768px){
+    .logo{
+        width: 119px;
+    }
+    .data{
+        margin-top: -45px;
+        margin-left: 157px;  
+    }
+    .input-field{
+        width: 269px;
+    }
+    .strip{
+        display: flex;
+    }
+    .account{
+        margin-top: -52px;
+        padding-left: 50px;
+    }
+    .cart{
+        margin-top: -52px;
+        padding-left: 50px;
+    }
+    .currency{
+        margin-top: -75px;
+        margin-left: 411px;
+    }
+    div.main-heading{
+        margin-left: -75px;
+    }
+    .change{
+        margin-right: 58px;
+        margin-left: -23px;
+    }
+    .van{
+        margin-right: 100px;
+    }
+    .bus{
+        margin-right: 100px;
+    }
+    .truck{
+        margin-right: 10px;
+        margin-left: 27px;
+    }
+     .app{
+        display: grid;
+        margin-top: -33px !important;
+    } 
+    i.fa.fa-apple.just{
+        margin-left: -30px !important;
+    }
+    i.fa.fa-android.just{
+        margin-left: -30px !important;
+    }
+    i.fa.fa-facebook-square.just{
+        margin-left: -30px !important;
+    }
+    i.fa.fa-twitter.just{
+        margin-left: -30px !important;
+    }
+    i.fa.fa-instagram.just{
+        margin-left: -30px !important;
+    }
+    i.fa.fa-weibo.just{
+        margin-left: -30px !important;
+    }
+    h3.inc{
+        font-size: 22px;
+        margin-left: -9px;
+    }
+    ul li a{
+        font-size: 16px;
+    }
+    .footer-logo img {
+        margin-left: 340px;
+        padding-bottom: 15px !important;
+        padding-top: 15px;
+    }
+    #copyright {
+        margin-left: 224px;
+    }
+    .trace{
+        width: 212px;
+    }
+    .vogo{
+        margin-top: 10px;
+    }
+    .ch{
+    float: left;
+    display: flex;
+    margin-top: -24px;
+    margin-left: 98px;
+    }
+    h1.ch{
+    margin-top: 1px;
+    margin-left: 1px;
+    }
+    .sort{
+    float: left;
+    display: flex;
+    margin-top: -27px;
+    margin-left: 98px;
+    }
+    .ac{
+    padding: 20px;
+    margin-bottom: 93px;
+    }
+
+}
+
+@media(max-width: 576px){
+    .ex{
+        background: #000;
+        padding: 20px 30px;
+    }
+    ul li{
+        list-style-type: none;
+        display: block;
+    }
+    ul li a{
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .items{
+        margin-left: -300px !important;
+    }
+}
